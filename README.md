@@ -25,3 +25,10 @@ n: number of periods
 Two types of Price trend changes:
 1) Golden Cross: When short term MA crosses above the long term MA. This is considered as a good time to buy stocks.
 2) Dead Cross: When short term MA crosses below the long term MA. This is considered as a good time to seel stocks.
+
+### Steps in calculating the MA in Python:
+
+1) Download stock price information from website: https://financialmodelingprep.com/ via API
+2) Parse the API extracted stock data and convert it into a Pandas Dataframe
+3) Calculate the short term and long term MA
+4) Plot the closing price and MA together in a graph.
