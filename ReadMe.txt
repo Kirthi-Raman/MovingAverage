@@ -1,4 +1,4 @@
-Moving Average (MA)
+# Moving Average (MA)
 
 Moving Average is mean of the n last closing prices.
 
