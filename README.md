@@ -1,7 +1,4 @@
 # MovingAverage
-Estimating the Moving Average of Stocks
-
-# MovingAverage
 
 Moving Average is mean of the n last closing prices.
 
