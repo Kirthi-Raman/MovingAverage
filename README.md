@@ -22,7 +22,7 @@ n: number of periods
 
 ### Price Trend Change: 
  - When short term MA crosses the long term MA.
-Two types of Price trend changes:
+Two types of Price trend changes:<\br>
 1) Golden Cross: When short term MA crosses above the long term MA. This is considered as a good time to buy stocks.
 2) Dead Cross: When short term MA crosses below the long term MA. This is considered as a good time to seel stocks.
 
